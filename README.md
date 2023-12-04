@@ -1,6 +1,6 @@
 # Lista de Tarefas API
 
-![Lista de Tarefas API][Minha Imagem](imagem_2023-12-04_195407549.png)
+![Lista de Tarefas API] [Minha Imagem](imagem_2023-12-04_195407549.png)
 
 
 Este projeto consiste em uma API simples para gerenciar uma lista de tarefas. Foi desenvolvido usando Node.js com Express para criar endpoints que permitem adicionar, visualizar e remover tarefas.
