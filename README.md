@@ -19,6 +19,9 @@ Para executar o projeto localmente, siga estas etapas:
    ```bash
    git clone https://github.com/seu-usuario/lista-tarefas-api.git
 
+
+
+
    Uso da API
 GET /tasks: Retorna todas as tarefas.
 POST /tasks: Adiciona uma nova tarefa. Envie um JSON no formato { "title": "Minha Tarefa" }.
